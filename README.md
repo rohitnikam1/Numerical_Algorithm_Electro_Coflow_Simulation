@@ -1,1 +1,1 @@
-# Masters Thesis: Electro-coflow simulation using dual grid level set method
+# Masters Thesis: Electro-Coflow Simulation Using Dual Grid Level Set Method
